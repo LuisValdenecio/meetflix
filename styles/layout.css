@@ -37,6 +37,26 @@
     grid-template-columns: repeat(4, 1fr);
 }
 
+.margin-top-8px {
+    margin-top: 0.8rem;
+}
+
+.margin-top-16px {
+    margin-top: 1.6rem;
+}
+
+.margin-top-32px {
+    margin-top: 3.2rem;
+}
+
+.margin-top-64px {
+    margin-top: 6.4rem;
+}
+
+.margin-top-128px {
+    margin-top: 12.8rem;
+}
+
 .container {
     /* 1140px */
     max-width: 120rem;
