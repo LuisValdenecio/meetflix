@@ -5,9 +5,86 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/general.css">
+
+    <!-- LOADS EXTERNAL JS FILES FOR IONICONS -->
+     <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.4.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule=""
+      src="https://unpkg.com/ionicons@5.4.0/dist/ionicons/ionicons.js"
+    ></script>
+
     <title>Home - Meetflix</title>
 </head>
 <body>
-    <h1>Welcome to MeetFlix! Meet your next great co-founder here!!</h1>
+    <!-- 
+        /////// HEADER (MOSTLY NAVIGATIONAL ITEMS) ///////
+     -->
+    <header>
+        <nav class="navigational-bar">
+
+            <div class="container flex-container space-between">
+
+                <!-- NAV ITEMS TO THE LEFT OF THE NAV BAR -->
+                <div class="main-nav-items">
+                    <ul class="flex-container">
+                        <li>
+                            <a href="#" class="logo-text">
+                                    MEETFLIX
+                            </a>
+                        </li> 
+                        <li>
+                            <a href="#">Home</a>
+                        </li>
+                        <li>
+                            <a href="#">People</a>
+                        </li>
+                        <li>
+                            <a href="#">Events</a>
+                        </li> 
+                        <li>
+                            <a href="#">News & Blog</a>
+                        </li>
+                        <li>
+                            <a href="#">My List</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- NAV ITEMS TO THE LEFT OF THE NAV BAR -->
+                <div class="secondary-nav-items">
+                    <ul class="flex-container">
+                        <li>
+                            <button>
+                                <ion-icon name="search-outline"></ion-icon>
+                            </button>
+                        </li>
+                        <li>
+                            <a href="#">Item</a>
+                        </li>
+                        <li>
+                            <a href="#">Item</a>
+                        </li>
+                        <li>
+                            <button>
+                                <ion-icon name="alarm-outline"></ion-icon>
+                            </button>
+                        </li>
+                        <li>
+                            <button>
+                                <ion-icon name="alarm-outline"></ion-icon>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+        </nav>
+    </header>
+
+
 </body>
 </html>
