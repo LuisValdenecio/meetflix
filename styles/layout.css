@@ -57,6 +57,10 @@
     margin-top: 12.8rem;
 }
 
+.relative-positioned {
+    position: relative;
+}
+
 .container {
     /* 1140px */
     max-width: 120rem;
