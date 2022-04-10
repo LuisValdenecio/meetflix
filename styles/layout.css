@@ -41,8 +41,16 @@
     margin-top: 0.8rem;
 }
 
+.margin-bottom-32px {
+    margin-bottom: 3.2rem;
+}
+
 .margin-top-16px {
     margin-top: 1.6rem;
+}
+
+.margin-top-24px {
+    margin-top: 2.4rem;
 }
 
 .margin-top-32px {

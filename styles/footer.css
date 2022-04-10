@@ -1,0 +1,46 @@
+.social-logos li {
+    list-style: none;
+}
+
+.social-logos ul {
+    display : flex;
+    justify-content: flex-start;
+    gap : 2.4rem;
+}
+
+.social-logos {
+    grid-column: 1 / -1;
+    align-self: flex-start;
+}
+
+.footer-content li {
+    list-style: none;
+    font-size: 1.4rem;
+    color : #868e96;
+}
+
+.service-code {
+    grid-column: 1 / -1;
+}
+
+.service-code a:link,
+.service-code a:visited {
+    text-decoration: none;
+    padding : 0.8rem;
+    font-size: 1.4rem;
+    color : #868e96;
+    border : solid 1px #868e96;
+}
+
+.service-code a:hover {
+    color : #fff;
+}
+
+.copyright {
+    margin-bottom: 1.6rem;
+}
+
+.copyright p {
+    font-size: 1.2rem;
+    color : #868e96;
+}
