@@ -53,6 +53,10 @@ Medium: 11px
 - Spacing system (px)
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
 */
+
+
+
+
 .top-hire-text {
     font-size: 1.6rem;
 }
@@ -112,7 +116,7 @@ Medium: 11px
 }
 
 .new::after {
-    content: 'NEW';
+    content: 'TOP HIRE';
     color : #fff;
     padding : 0.8rem;
     font-size: 1.2rem;
@@ -125,41 +129,56 @@ Medium: 11px
 }
 
 .hire-1 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://api.uifaces.co/our-content/donated/6MWH9Xi_.jpg");
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://api.uifaces.co/our-content/donated/6MWH9Xi_.jpg");
 }
 
 .hire-2 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://images.unsplash.com/photo-1506085452766-c330853bea50?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=3e378252a934e660f231666b51bd269a");   
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://images.unsplash.com/photo-1506085452766-c330853bea50?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=3e378252a934e660f231666b51bd269a");   
 }
 
 .hire-3 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://images.unsplash.com/photo-1498529605908-f357a9af7bf5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=047fade70e80ebb22ac8f09c04872c40");   
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://images.unsplash.com/photo-1498529605908-f357a9af7bf5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=047fade70e80ebb22ac8f09c04872c40");   
 }
 
 .hire-4 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://images.unsplash.com/photo-1456327102063-fb5054efe647?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=f05c14dd4db49f08a789e6449604c490");   
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://images.unsplash.com/photo-1456327102063-fb5054efe647?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=f05c14dd4db49f08a789e6449604c490");   
 }
 
 .hire-5 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://api.uifaces.co/our-content/donated/KtCFjlD4.jpg");   
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://api.uifaces.co/our-content/donated/KtCFjlD4.jpg");   
 }
 
 .hire-6 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://randomuser.me/api/portraits/women/2.jpg");   
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://randomuser.me/api/portraits/women/2.jpg");   
 }
 
 .hire-7 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://api.uifaces.co/our-content/donated/6MWH9Xi_.jpg");   
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://api.uifaces.co/our-content/donated/6MWH9Xi_.jpg");   
 }
 
 .hire-8 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://api.uifaces.co/our-content/donated/ukegoVAy.jpg");   
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://api.uifaces.co/our-content/donated/ukegoVAy.jpg");   
 }
 
 .hire-9 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=73a9df4b7bd1b330db1e903e08575ec1");   
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=73a9df4b7bd1b330db1e903e08575ec1");   
 }
 
 .hire-10 {
-    background-image: linear-gradient(to right, rgba(30, 30, 30, .9), rgba(30, 30, 30, 0.7)), url("https://api.uifaces.co/our-content/donated/6MWH9Xi_.jpg");   
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.3)), url("https://api.uifaces.co/our-content/donated/6MWH9Xi_.jpg");   
+}
+
+.progress-bar {
+    height: 3px;
+    width: 200px;
+    margin-top : 0.8rem;
+    background-color: rgb(179, 177, 177);
+}
+
+.progress-bar::after {
+    content: '';
+    height: 3px;
+    width: 100px;
+    position : absolute;
+    background-color: #e03131;
 }

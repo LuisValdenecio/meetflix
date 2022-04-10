@@ -68,6 +68,7 @@ Medium: 11px
     margin : 0;
     padding : 0;
     box-sizing: border-box;
+    color : #fff;
 }
 
 html {
@@ -76,4 +77,5 @@ html {
 
 body {
     font-family: "Rubik", sans-serif;
+    background-color: rgb(29, 28, 28);
 }
